@@ -4,11 +4,11 @@ public class Practice06_03 {
         int b = 8;
 
         System.out.println(a += 3);
-        System.out.println(a);
+       
 
 
         System.out.println(b -=4);
-        System.out.println(b);
+      
         
     }
 }
